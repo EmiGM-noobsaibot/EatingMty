@@ -63,22 +63,6 @@ DOWNLOAD "Online Voting Management System Project"
 
    - Customers can place orders, track their status, and view delivery details.
 
-## Screenshots:
 
-`Schema Diagram:`
-![Schema](images/schema.png)
 
-`Home Page:`
-![Home Page](images/home.png)
 
-`Restaurants Page:`
-![restaurant Page](images/res.png)
-
-`Cart/Orders Page:`
-![cart Page](images/orders.png)
-
-`Payment Page:`
-![payment Page](images/pay.png)
-
-`Bill Page:`
-![bill Page](images/placed.png)
