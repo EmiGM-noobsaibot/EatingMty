@@ -1,3 +1,5 @@
 {
-    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+    "php.validate.executablePath": "/usr/bin/php",
+    "php.suggest.basic": false,
+    "intelephense.files.maxSize": 1000000
 }
